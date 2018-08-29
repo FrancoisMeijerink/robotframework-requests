@@ -10,6 +10,7 @@ Install robotframework-requests and it's dependencies via ``pip``
 
 ```bash
 pip install -U requests
+pip install -U requests-ntlm
 pip install -U robotframework-requests
 ```
 
